@@ -1,0 +1,17 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  color: rgb(0, 0, 0);
+}
+
+div {
+    background-color: #ece3e3; 
+  }
+  body {
+    background-image: url('./pexels-franesco-ungaro-998660 (1).jpg');
+    background-size: cover;
+   
+  }
+  .img {
+   margin: 20px;
+  }
+  
